@@ -2,6 +2,12 @@
 Change log
 **********
 
+0.6.1
+#####
+
+* `#98 <https://github.com/sphinx-doc/sphinx-argparse/issues/98>`__ Fixed issue where a parallel sphinx build would
+  fail (mostly relevant in CI)
+
 0.6.0
 #####
 
